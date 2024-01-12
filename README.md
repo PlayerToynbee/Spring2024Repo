@@ -1,2 +1,3 @@
 # Spring2024Repo
-Spring 2024
+Im Jayden
+This is my git hub for the spring semester.
